@@ -1,6 +1,6 @@
 # API Project: URL Shortener Microservice for freeCodeCamp
 
-# [DEMO](https://fcc-url-shortener-mckelveygreg.glitch.me/) https://fcc-url-shortener-mckelveygreg.glitch.me/
+## [DEMO](https://fcc-url-shortener-mckelveygreg.glitch.me/) https://fcc-url-shortener-mckelveygreg.glitch.me/
 ### User Stories
 
 1. I can POST a URL to `[project_url]/api/shorturl/new` and I will receive a shortened URL in the JSON response. Example : `{"original_url":"www.google.com","short_url":1}`
